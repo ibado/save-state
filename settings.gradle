@@ -1,0 +1,4 @@
+rootProject.name='saveinstance'
+include ':app'
+include ':processor'
+include ':statesaver'
