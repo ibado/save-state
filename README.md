@@ -45,6 +45,8 @@ dependencies {
     //...
     implementation 'com.github.ibado:save-state:0.0.1'
     annotationProcessor 'com.github.ibado.save-state:processor:0.0.1'
+    // for kotlin
+    kapt 'com.github.ibado.save-state:processor:0.0.1'
 }
  
 ```
